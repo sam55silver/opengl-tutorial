@@ -1,0 +1,8 @@
+[submodule "opengl-tutorial/Vendor/glfw"]
+	path = opengl-tutorial/Vendor/glfw
+	url = https://github.com/glfw/glfw.git
+	branch = master
+[submodule "opengl-tutorial/Vendor/glad"]
+	path = opengl-tutorial/Vendor/glad
+	url = https://github.com/Dav1dde/glad.git
+	branch = c
